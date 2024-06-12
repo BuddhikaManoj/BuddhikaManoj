@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buddhika Manoj</h1>
 <h3 align="center">A passionate IT Undergraduate | UOM IT Fac</h3>
+<hr/>
 
 - 🌱 I’m currently learning **Mern stack development, Angular, Vue, Typescript and Nextjs**
 
