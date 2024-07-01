@@ -18,5 +18,5 @@
 
 
 <h3 align="left">My portfolio:</h3>
-<p><a href="https://portfolio-manojbm.netlify.app"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swic.edu%2Fportfolio-day%2F&psig=AOvVaw3V-EISxUbfu8az_knq-FSf&ust=1719902268777000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDRkbCdhYcDFQAAAAAdAAAAABAE" height="50" width="210" alt="portfolio" /></a></p><br><br>
+<p><a href="https://portfolio-manojbm.netlify.app" text-decoration="none">Portfolio</a></p><br><br>
 
