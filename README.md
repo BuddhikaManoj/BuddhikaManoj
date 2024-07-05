@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Mern stack development, Angular, Vue, Typescript and Nextjs**
 
-- 💬 Ask me about **Mern Stack, Java**
+- 💬 Ask me about **Mern Stack, Java, Javascript**
 
-- 📫 How to reach me **Manoiddamalgoda@gmail.com**
+- 📫 How to reach me **manoiddamalgoda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
