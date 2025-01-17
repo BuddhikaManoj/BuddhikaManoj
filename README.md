@@ -2,8 +2,8 @@
 <p><em>Passionate IT Undergraduate at <a href="https://uom.lk/">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-![Static Badge](https://img.shields.io/badge/Linkedin-me?color=blue)(www.linkedin.com/in/buddhika-manoj-775114251)
-![Static Badge](https://img.shields.io/badge/Github-me?logo=github&color=darkgreen)(https://github.com/BuddhikaManoj)
+[![Static Badge](https://img.shields.io/badge/Linkedin-me?color=blue)](www.linkedin.com/in/buddhika-manoj-775114251)
+[![Static Badge](https://img.shields.io/badge/Github-me?logo=github&color=darkgreen)](https://github.com/BuddhikaManoj)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><i>A little more about me...</i>  
