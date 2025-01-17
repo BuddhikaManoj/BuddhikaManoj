@@ -1,5 +1,4 @@
 <h2> Hi, I'm Buddhika Manoj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Passionate IT Undergraduate at <a href="https://uom.lk/">University of Moratuwa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
@@ -25,7 +24,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BuddhikaManoj&show_icons=true&theme=radical">
+  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BuddhikaManoj&show_icons=true&theme=gotham">
 </p>
 
 <p align="center">
