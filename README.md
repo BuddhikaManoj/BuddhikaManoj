@@ -24,7 +24,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BuddhikaManoj&show_icons=true&theme=gotham">
+  <img alt="Manoj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BuddhikaManoj&show_icons=true&theme=gotham">
 </p>
 
 <p align="center">
